@@ -510,7 +510,7 @@ font-family: "Poppins", sans-serif;
     margin: 5rem 4rem;
   }
   .home p{
-    width: 500px; /* Consider using a relative unit like % or em */
+    width: 100%; /* Consider using a relative unit like % or em */
   }
   .home-content h3{
     font-size: 1.2rem;
