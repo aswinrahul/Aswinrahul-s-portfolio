@@ -278,7 +278,7 @@ font-family: "Poppins", sans-serif;
   }
   
   .about-content p{
-    font-size:16px;
+    font-size:25px;
     text-align:1.6rem;
     padding-bottom:10px;
     margin: 2rem 0 rem;
@@ -531,6 +531,9 @@ font-family: "Poppins", sans-serif;
       text-align:center;
     margin: 0 2rem 4rem;
   }
+    .about-content p{
+        font-size:16px;
+    }
   .about-content h2{
     text-align: center;
   }
